@@ -5,7 +5,7 @@ The Matlab function <b>getclipdata</b> converts the contents of the clipboard to
 <br>This function could be useful, for example, to obtain the data copied from Excel.
 
 <b>Syntax:</b><br>
-&nbsp; &nbsp; &nbsp;data = getclipdata()<br><br> 
+&nbsp; &nbsp; &nbsp;data = getclipdata()<br> 
 <li> Author:<br>
 &nbsp; &nbsp; &nbsp;<a href="mailto:pbaez@ug.uchile.cl">Pablo Báez R.</a><br>
 <li> Version:<br>
