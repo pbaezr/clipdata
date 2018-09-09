@@ -39,3 +39,4 @@ numData = str2double(stringData);
 ind = isnan(numData);
 data = num2cell(numData);
 data(ind) = stringData(ind);
+
