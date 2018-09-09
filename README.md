@@ -9,3 +9,5 @@ Syntax:
   data = getclipdata
 
 Author: Pablo Báez R. (pbaez@ug.uchile.cl)
+Version: 1.0 (2018-09-08)
+License: GPLv3
