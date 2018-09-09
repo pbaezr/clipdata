@@ -1,4 +1,4 @@
-# clipdata
+# getclipdata
 Convert the contents of the clipboard to a matlab cell array
 
 The Matlab function <b>getclipdata</b> converts the contents of the clipboard to a cell array.
