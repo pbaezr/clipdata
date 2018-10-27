@@ -8,6 +8,10 @@ The Matlab function <b>getclipdata</b> converts the contents of the clipboard to
 
 `data = getclipdata()`
 
+### License:
+
+<a href=https://opensource.org/licenses/MIT>MIT Licence</a>
+
 ### Author
 
 <a href="mailto:pbaez@ug.uchile.cl">Pablo Báez R.</a>
@@ -15,7 +19,3 @@ The Matlab function <b>getclipdata</b> converts the contents of the clipboard to
 ### Version
 
 1.0 (2018-09-08)
-
-### License:
-
-<a href=https://opensource.org/licenses/MIT>MIT Licence</a>
